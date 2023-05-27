@@ -20,8 +20,8 @@ Save the data to the file
 
 # PROGRAM:
 ```
-Name : Yuvadarshini S
-Register Number : 212221230126
+Name : CHARU DHARSHINI K
+Register Number : 212221220008
 
 
 import numpy as np
